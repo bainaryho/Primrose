@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/map"
+        android:title="꽃집 위치"
+        android:textStyle="normal"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="로그아웃"
+        android:textStyle="normal"/>
+</menu>

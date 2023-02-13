@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Primrose</string>
+    <string name="sub_name">프림로즈</string>
+    <string name="info_content">
+        꽃을 선물할 때 가장 신경쓰는 것 중의 하나는 꽃말이지 않을까요?\n
+        각각의 꽃에는 사랑, 우정 등과 같은 꽃말이 존재합니다.\n
+        primrose(프림로즈) 또한 꽃의 종류이며 꽃말은 겸손, 영원한 사랑, 행복의 열쇠 등등이 있습니다.\n
+        primrose(프림로즈)는 가족, 연인, 친구에게 꽃을 선물할 때 도움을 드리고자 만든 앱입니다.\n
+        꽃의 이름, 꽃말을 검색할 수도 있으며 지도를 통해 가까운 꽃가게를 찾아볼 수도 있습니다.\n
+    </string>
+</resources>

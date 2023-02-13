@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21462536491",
+    "firebase_url": "https://primrose-2df68-default-rtdb.firebaseio.com",
+    "project_id": "primrose-2df68",
+    "storage_bucket": "primrose-2df68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21462536491:android:342c29a40ef1e8223ef56e",
+        "android_client_info": {
+          "package_name": "com.inhatc.primrose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21462536491-stovsfmhhc5avndt0e9s67pijcjn6s0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpwSMQOzr55Lq7-NQ6eiT1-twpqC3r1-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21462536491-stovsfmhhc5avndt0e9s67pijcjn6s0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
